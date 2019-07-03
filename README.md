@@ -1,13 +1,10 @@
 # Data science in Python - course materials
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pycam/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
 New course based on 'Working with Python: functions and modules' course
 
 Materials for the course run by the Graduate School of Life Sciences, University of Cambridge.
 
-- Course website: http://pycam.github.io/
-- Booking website: http://www.training.cam.ac.uk/
+- Course website: http://alanwilter.github.io/pycam/
 
 If you wish to run the course on your personal computer, here are the steps to follow to get up and running.
 
@@ -57,8 +54,8 @@ Go to the directory where you've cloned this repository, activate your virtual e
 Your web browser should automatically open with this url http://localhost:8888/tree where you see the directory tree of the course with all the jupyter notebooks.
 
 ```bash
-cd python-data-science
-source venv/bin/activate
+#cd python-data-science
+#source venv/bin/activate
 jupyter notebook
 ```
 
