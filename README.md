@@ -11,7 +11,7 @@ If you wish to run the course on your personal computer, here are the steps to f
 ## Clone this github project
 
 ```bash
-git clone https://github.com/pycam/python-data-science.git
+git clone https://github.com/alanwilter/python-data-science.git
 cd python-data-science
 ```
 
